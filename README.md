@@ -12,6 +12,8 @@
 	[【Android利器】 开源项目。包含常用的android开发功能及知识点](https://github.com/QQ986945193/DavidAndroidProjectTools)
 
 	[一个时间选择器DatePicker简单详解demo](https://github.com/QQ986945193/DavidDatePickerDemo)
+	
+	[生成炫酷验证码，不区分大小写。登陆，发送手机验证码，防止注册机。](https://github.com/QQ986945193/CheckFourMark)
 
 - **Java相关的资料**  
 
