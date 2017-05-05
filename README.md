@@ -11,6 +11,8 @@
 
 	[【Android利器】 开源项目。包含常用的android开发功能及知识点](https://github.com/QQ986945193/DavidAndroidProjectTools)
 	
+	[【DAndroidUtils】 开源项目。android开发中常用功能封装的library](https://github.com/QQ986945193/DAndroidUtils)
+	
 	[【TG新闻】 开源项目。主流新闻app主界面功能实现](https://github.com/QQ986945193/DavidTGNewsProject)
 
 	[Android开发之常用的loading等待效果实现，仿微博等待动画](https://github.com/QQ986945193/DialogLoadding)
