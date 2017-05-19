@@ -23,6 +23,18 @@
 	
 	[Android开发可以手动进行控制的跑马灯效果，包括从左到右，以及从右到左](https://github.com/QQ986945193/DavidMarqueeControlProject)
 	
+	[EventBus简单使用实例,学习使用开源库，提高开发效率与速度](https://github.com/QQ986945193/DavidEventBusDemo)
+	
+	[Rx项目简单详解,理解响应式编程思想。](https://github.com/QQ986945193/DavidRxProject)
+	
+	[Android开发之自定义View的功能实现详解。教你一步一步学会自定义View](https://github.com/QQ986945193/CustomView)
+	
+	[Android开发之使用Zxing集成二维码的扫描与生成功能。fragment与activity中实现。](https://github.com/QQ986945193/DavidZxingDetailProject)
+	
+	[可以下拉刷新的webview，使你的webview效果更加好看，封装自己的WebView](https://github.com/QQ986945193/DavidCustomWebView)
+	
+	[Android开发实现进度条效果，SeekBar的简单使用。音量，音乐播放进度，视频播放进度等](https://github.com/QQ986945193/DavidSeekBarMusicMoreDemo)
+	
 	[【Android】Listview返回顶部，快速返回顶部的功能实现，详解代码。](https://github.com/QQ986945193/DavidToTopListView)
 	
 	[Android开发之著名框架ButterKnife的使用详解，butterknife8.1.0版本的使用方法](https://github.com/QQ986945193/DavidButterKnifeDemo)
