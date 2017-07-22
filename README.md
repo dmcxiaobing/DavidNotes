@@ -47,6 +47,8 @@
 	[自己学习JavaWeb的知识点以及代码学习记录。](https://github.com/QQ986945193/JavaWebEduProject)
 
 	[java开发中总结的常用SE基本知识点以及功能点详解。](https://github.com/QQ986945193/JavaSeTools)
+	
+	[一个自己学习SSH框架的知识点总结以及代码记录。](https://github.com/QQ986945193/SSHTools)
 
 
 
