@@ -2,7 +2,7 @@
 
 这是我自己在github传过的项目以及记录自己学习的demo地址导航。
 
-其中主要是Android的知识点以及示例。Java的知识点及开源项目请点击这里
+其中主要是Android的知识点以及示例。[Java的知识点及开源项目请点击这里](https://github.com/QQ986945193/DavidNotes/blob/master/JavaNote.md)
 
 ## ##
 
