@@ -2,9 +2,24 @@
 
 这是我自己在github传过的项目以及记录自己学习的demo地址导航。
 
-其中主要是java知识以及Android的知识点以及示例。
+其中主要是java知识点以及示例。关于Android的知识在另一个文件中。
+
+
 
 ## ##
+
+- **Java相关的资料**  
+
+
+	[自己学习JavaWeb的知识点以及代码学习记录。](https://github.com/QQ986945193/JavaWebEduProject)
+
+	[java开发中总结的常用SE基本知识点以及功能点详解。](https://github.com/QQ986945193/JavaSeTools)
+	
+	[一个自己学习SSH框架的知识点总结以及代码记录。](https://github.com/QQ986945193/SSHTools)
+
+	[使用jar包搭建的ssm开发框架。SpringMvc,Spring,MyBatis](https://github.com/QQ986945193/ssmbase)
+
+	[使用jar包搭建的ssh开发框架。Struts2,Spring,Hibernate](https://github.com/QQ986945193/sshbase)
 	
 ## ##
 
