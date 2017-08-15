@@ -5,7 +5,7 @@
 其中主要是java知识以及Android的知识点以及示例。
 
 ## ##
-	
+	[Android的知识点及开源项目请点击这里](https://github.com/QQ986945193/DavidNotes/blob/master/AndroidNote.md)
 ## ##
 
 
